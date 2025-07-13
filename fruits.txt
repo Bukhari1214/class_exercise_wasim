@@ -1,8 +1,18 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b3f1cc82ef1c9629d73deb73478e824562d46534
 Apple – An apple a day keeps the doctor away.
 Banana – A banana a day keeps the cramps at bay.
 Mango – A mango a day brings sunshine your way.
 
+<<<<<<< HEAD
 Grapes
 Apple 
 Banana 
 Mango
+=======
+Grapes (need some description)
+
+
+>>>>>>> b3f1cc82ef1c9629d73deb73478e824562d46534
